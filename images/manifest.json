@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://Ashkanaln.github.io/Ashkan9/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in Ashkanaln/Ashkan9 project"
+        ]
+    },
+    "items": []
+}
