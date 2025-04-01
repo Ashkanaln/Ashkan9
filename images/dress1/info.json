@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 83,
+    "height" : 125
+  }, {
+    "width" : 166,
+    "height" : 249
+  }, {
+    "width" : 331,
+    "height" : 497
+  }, {
+    "width" : 661,
+    "height" : 994
+  }, {
+    "width" : 1321,
+    "height" : 1988
+  }, {
+    "width" : 2641,
+    "height" : 3976
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2641,
+  "@id" : "https://Ashkanaln.github.io/Ashkan9/images/dress1",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3976
+}
