@@ -1,0 +1,413 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Ashkanaln.github.io/Ashkan9/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Multimodal",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Ashkan Alinaghian, Arian PourEsmaeili, MohammadMahdi KhorsandPour",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://218fd652-ddef-4e96-9e62-cbf2c6175ceb",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://a0e7970d-2d04-4d18-bcdb-319801344b33",
+      "@type" : "sc:Canvas",
+      "label" : "Shirt",
+      "height" : 593,
+      "width" : 400,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6f0742ba-1a60-4ffc-85f1-e3294b1f3ea0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ashkanaln.github.io/Ashkan9/images/shirt/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ashkanaln.github.io/Ashkan9/images/shirt",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 593,
+          "width" : 400
+        },
+        "on" : "http://a0e7970d-2d04-4d18-bcdb-319801344b33"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://58063a68-fd48-4a89-976e-1c89e016e426",
+      "@type" : "sc:Canvas",
+      "label" : "Sandal",
+      "height" : 225,
+      "width" : 225,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://96a120d8-9aac-4626-b616-05da9f1f0952",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ashkanaln.github.io/Ashkan9/images/sandal/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ashkanaln.github.io/Ashkan9/images/sandal",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 225,
+          "width" : 225
+        },
+        "on" : "http://58063a68-fd48-4a89-976e-1c89e016e426"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://f537c256-6e67-4419-a1bc-197f750778e3",
+      "@type" : "sc:Canvas",
+      "label" : "Shirt1",
+      "height" : 4592,
+      "width" : 3064,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://263f698d-c4a8-4a72-91ec-e22b10641b80",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ashkanaln.github.io/Ashkan9/images/shirt1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ashkanaln.github.io/Ashkan9/images/shirt1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4592,
+          "width" : 3064
+        },
+        "on" : "http://f537c256-6e67-4419-a1bc-197f750778e3"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://8f81adba-2886-4651-a33c-f2dbd04df942",
+      "@type" : "sc:Canvas",
+      "label" : "T-shirt",
+      "height" : 3168,
+      "width" : 2112,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://63da0c4d-fa5f-4672-9047-d1ab9e6d5416",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ashkanaln.github.io/Ashkan9/images/T-shirt1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ashkanaln.github.io/Ashkan9/images/T-shirt1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3168,
+          "width" : 2112
+        },
+        "on" : "http://8f81adba-2886-4651-a33c-f2dbd04df942"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://040d502e-c56b-449f-8073-c5a6bbcd8059",
+      "@type" : "sc:Canvas",
+      "label" : "dress",
+      "height" : 1000,
+      "width" : 667,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fa9f8130-3903-4469-8f95-ec5808481820",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ashkanaln.github.io/Ashkan9/images/dress/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ashkanaln.github.io/Ashkan9/images/dress",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1000,
+          "width" : 667
+        },
+        "on" : "http://040d502e-c56b-449f-8073-c5a6bbcd8059"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://99282aac-8635-46ee-a9f2-5b138964933e",
+      "@type" : "sc:Canvas",
+      "label" : "bag1",
+      "height" : 669,
+      "width" : 502,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://678b4a11-6050-459b-b351-e28701c859cf",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ashkanaln.github.io/Ashkan9/images/bag1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ashkanaln.github.io/Ashkan9/images/bag1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 669,
+          "width" : 502
+        },
+        "on" : "http://99282aac-8635-46ee-a9f2-5b138964933e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://1f4ce6bb-bc62-463e-921d-49588acecb76",
+      "@type" : "sc:Canvas",
+      "label" : "pullover",
+      "height" : 1000,
+      "width" : 693,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8128432f-c829-497f-84d8-630f65edfbfa",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ashkanaln.github.io/Ashkan9/images/pullover/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ashkanaln.github.io/Ashkan9/images/pullover",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1000,
+          "width" : 693
+        },
+        "on" : "http://1f4ce6bb-bc62-463e-921d-49588acecb76"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ff2db378-0aba-474e-a68c-9d2b01f5341f",
+      "@type" : "sc:Canvas",
+      "label" : "sneaker",
+      "height" : 500,
+      "width" : 587,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://95f4d297-369a-4966-9bd5-21f124781d69",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ashkanaln.github.io/Ashkan9/images/sneaker/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ashkanaln.github.io/Ashkan9/images/sneaker",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 500,
+          "width" : 587
+        },
+        "on" : "http://ff2db378-0aba-474e-a68c-9d2b01f5341f"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://65bcc34c-e338-458f-aae3-364eb6bea719",
+      "@type" : "sc:Canvas",
+      "label" : "boot",
+      "height" : 800,
+      "width" : 640,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fe8126f1-2864-48dc-a4ea-d418f59ebd24",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ashkanaln.github.io/Ashkan9/images/boot/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ashkanaln.github.io/Ashkan9/images/boot",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 800,
+          "width" : 640
+        },
+        "on" : "http://65bcc34c-e338-458f-aae3-364eb6bea719"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://46d9800f-9ca3-4c0e-b528-de2026c7d827",
+      "@type" : "sc:Canvas",
+      "label" : "t-shirt",
+      "height" : 455,
+      "width" : 455,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://7b036bb1-2d61-464b-b849-7d67572dfba1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ashkanaln.github.io/Ashkan9/images/t-shirt/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ashkanaln.github.io/Ashkan9/images/t-shirt",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 455,
+          "width" : 455
+        },
+        "on" : "http://46d9800f-9ca3-4c0e-b528-de2026c7d827"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://dda07b19-1aa3-4468-9dde-c604c05abf36",
+      "@type" : "sc:Canvas",
+      "label" : "trouser",
+      "height" : 800,
+      "width" : 800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a5c9f0f1-0a3c-41af-a91e-61162fe66ab4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ashkanaln.github.io/Ashkan9/images/trouser/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ashkanaln.github.io/Ashkan9/images/trouser",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 800,
+          "width" : 800
+        },
+        "on" : "http://dda07b19-1aa3-4468-9dde-c604c05abf36"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ec380bf0-fa5a-4c80-a10d-88502c622044",
+      "@type" : "sc:Canvas",
+      "label" : "bag",
+      "height" : 1008,
+      "width" : 756,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://92431ec9-ae1d-44f2-9474-569d6a8db430",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ashkanaln.github.io/Ashkan9/images/bag/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ashkanaln.github.io/Ashkan9/images/bag",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1008,
+          "width" : 756
+        },
+        "on" : "http://ec380bf0-fa5a-4c80-a10d-88502c622044"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://055643d6-d450-4cf7-a056-59d3dca1954e",
+      "@type" : "sc:Canvas",
+      "label" : "dress1",
+      "height" : 3976,
+      "width" : 2641,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://721a153d-4d8e-44e3-8785-df438207536c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ashkanaln.github.io/Ashkan9/images/dress1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ashkanaln.github.io/Ashkan9/images/dress1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3976,
+          "width" : 2641
+        },
+        "on" : "http://055643d6-d450-4cf7-a056-59d3dca1954e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://784fe1b1-184b-495f-b244-e5db9526f905",
+      "@type" : "sc:Canvas",
+      "label" : "trouser1",
+      "height" : 5210,
+      "width" : 3566,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://1b02083c-4b04-47fe-a552-98b16e21c5c4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ashkanaln.github.io/Ashkan9/images/trouser1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ashkanaln.github.io/Ashkan9/images/trouser1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5210,
+          "width" : 3566
+        },
+        "on" : "http://784fe1b1-184b-495f-b244-e5db9526f905"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a8aa31ad-f27e-441f-b340-09a09659d9fc",
+      "@type" : "sc:Canvas",
+      "label" : "coat1",
+      "height" : 1000,
+      "width" : 773,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fb755268-ed86-4b76-924f-d51cd71b2daa",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ashkanaln.github.io/Ashkan9/images/coat/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ashkanaln.github.io/Ashkan9/images/coat",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1000,
+          "width" : 773
+        },
+        "on" : "http://a8aa31ad-f27e-441f-b340-09a09659d9fc"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
