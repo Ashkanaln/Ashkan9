@@ -7,5 +7,87 @@
             "All images loaded in Ashkanaln/Ashkan9 project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://Ashkanaln.github.io/Ashkan9/images/bag/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "bag"
+                ]
+            },
+            "height": 1008,
+            "width": 756,
+            "items": [
+                {
+                    "id": "https://Ashkanaln.github.io/Ashkan9/images/bag/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Ashkanaln.github.io/Ashkan9/images/bag/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Ashkanaln.github.io/Ashkan9/images/bag/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 24,
+                                                "height": 32
+                                            },
+                                            {
+                                                "width": 48,
+                                                "height": 63
+                                            },
+                                            {
+                                                "width": 95,
+                                                "height": 126
+                                            },
+                                            {
+                                                "width": 189,
+                                                "height": 252
+                                            },
+                                            {
+                                                "width": 378,
+                                                "height": 504
+                                            },
+                                            {
+                                                "width": 756,
+                                                "height": 1008
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 756,
+                                        "@id": "https://Ashkanaln.github.io/Ashkan9/images/bag",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1008,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Ashkanaln.github.io/Ashkan9/images/bag/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
