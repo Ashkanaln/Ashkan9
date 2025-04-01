@@ -252,6 +252,87 @@
             ]
         },
         {
+            "id": "https://Ashkanaln.github.io/Ashkan9/images/sneaker/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "sneaker"
+                ]
+            },
+            "height": 500,
+            "width": 587,
+            "items": [
+                {
+                    "id": "https://Ashkanaln.github.io/Ashkan9/images/sneaker/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Ashkanaln.github.io/Ashkan9/images/sneaker/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Ashkanaln.github.io/Ashkan9/images/sneaker/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 19,
+                                                "height": 16
+                                            },
+                                            {
+                                                "width": 37,
+                                                "height": 32
+                                            },
+                                            {
+                                                "width": 74,
+                                                "height": 63
+                                            },
+                                            {
+                                                "width": 147,
+                                                "height": 125
+                                            },
+                                            {
+                                                "width": 294,
+                                                "height": 250
+                                            },
+                                            {
+                                                "width": 587,
+                                                "height": 500
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 587,
+                                        "@id": "https://Ashkanaln.github.io/Ashkan9/images/sneaker",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 500,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Ashkanaln.github.io/Ashkan9/images/sneaker/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://Ashkanaln.github.io/Ashkan9/images/pullover/canvas/",
             "type": "Canvas",
             "label": {
