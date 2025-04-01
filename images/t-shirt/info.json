@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 15,
+    "height" : 15
+  }, {
+    "width" : 29,
+    "height" : 29
+  }, {
+    "width" : 57,
+    "height" : 57
+  }, {
+    "width" : 114,
+    "height" : 114
+  }, {
+    "width" : 228,
+    "height" : 228
+  }, {
+    "width" : 455,
+    "height" : 455
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 455,
+  "@id" : "https://Ashkanaln.github.io/Ashkan9/images/t-shirt",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 455
+}
